@@ -1,5 +1,8 @@
 _repo: Holbein-der-jungere_62389
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62389-h/images/cover.jpg
 creator:
   author:
     agent_name: Knackfuss, H. (Hermann)
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hermann_Knackfuss
     - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62389#Holbein-der-jungere
 gutenberg_issued: '2020-06-13'
 gutenberg_type: Text
 identifiers:

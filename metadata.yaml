@@ -1,0 +1,31 @@
+_repo: Holbein-der-jungere_62389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuss, Hermann
+    - Knackfuß, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hermann_Knackfuss
+    - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+description: ''
+gutenberg_issued: '2020-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62389'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Künstler-Monographien: XVII'
+subjects:
+- !lcc 'ND'
+- !lcsh 'Holbein, Hans, 1497-1543'
+- GITenberg
+title: Holbein der jüngere
+url: http://www.gutenberg.org/ebooks/62389
